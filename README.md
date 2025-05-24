@@ -1,6 +1,6 @@
 # Dynamic Math Quiz Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A real-time, interactive math quiz application built with modern web technologies. Features live competition, multiple difficulty levels, and instant results.
 
