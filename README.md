@@ -26,3 +26,9 @@ A real-time, interactive math quiz application built with modern web technologie
    ```bash
    git clone https://github.com/your-username/dynamic-math-quiz.git
    cd dynamic-math-quiz
+
+   cd backend
+npm install
+npm run build
+
+
